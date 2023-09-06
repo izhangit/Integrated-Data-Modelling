@@ -1,0 +1,84 @@
+                World of Data Engineering 
+
+1. Basic of Data Models
+    a. what is Data Model
+    b. Why is Data Modeling Important?
+    c. Who does this type of work 
+    d. Relational Model and Database
+    e. ACID Properties 
+    f. Requirements
+
+2. Exercise 1 - Creating  Tables in Postgres using Python
+3. Project - Building Data Model and Creating Database
+-----------------------------------------------------------------
+
+a. What is Data Model
+
+    A Data Model is an abstract Model that organizes elements of data and standartizes how they relate to one another and to the properties of real-world entities.
+
+    
+b. why is Data Modeling Important
+
+    - Really Important to Oraganize Data
+    - Organized data determines later data use
+    - Begin prior to building out applications, business logic and analytical models
+    - Iterative process
+
+ c. Who does this type of work 
+
+    - Data Scientist
+    - Software Engineers
+    - Data Engineer
+    - Anyone involved in the process of using and analyzing data
+
+d. Relational Model
+
+    Organize data into one or more tables of columns and rows, with a unique key identifying each row.
+
+   - Relational Database 
+        It is a digital database based on the relational model of data ... a software system used to maintain relational database is a relatioanl database management system (RDBMS)
+
+        - MySQL
+        - PostgreSQL
+        - Oracle
+        - MSSQL
+
+e. What are ACID Porperties 
+
+        ACID
+
+        - Atomicity
+        - Consistency 
+        - Isolation
+        - Durability
+
+
+f. Requirements
+
+    1. PsotgreSQL
+    2. Python 3.6 or later version 
+    3. Jupyter Notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

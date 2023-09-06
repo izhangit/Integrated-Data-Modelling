@@ -1,0 +1,28 @@
+ - Prerequisites
+ 1. Relation Database Design and SQL
+ 2. Programming with Python
+ 3. Basic Database Understanding
+ 4. Understanding on Data Modellig
+
+ What is Data Warehouse?
+
+    A Data Warehouse is a copy of transaction data specifically structured for query and analysis
+
+    In Computing a data warehouse, also known as an enterprise data warehouse is a system used for reporting and data analysis and is considered a core component of Business Intelligence. Data warehouse are central repositories of integrared data from one or more disparate sources.
+
+Dimenional Model.
+
+    is designed to
+    1. Make it easy for business users to work with the data.
+    2. Improve analytical queries performance.
+
+    The Technologies used for storing dimensional models are different traditional technologies.
+
+    Processing Modes
+
+1.  OLTP : Online Transactional Processing
+2.  OLAP : Online Analytical Processing
+
+Data warehouse is a system (including process, technologies and data representations)
+That enables us to support analytical process
+
